@@ -1,0 +1,10 @@
+pandas
+pyarrow
+duckdb
+streamlit
+plotly
+fastapi
+uvicorn
+requests
+httpx
+pytest

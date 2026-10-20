@@ -1,0 +1,9 @@
+metric,value
+original_records,550242
+invalid_dates,0
+duplicates_removed,90
+final_records,550152
+total_columns,8
+missing_values_total,0
+missing_values_by_column,{}
+validation_status,Passed
